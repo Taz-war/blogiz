@@ -4,10 +4,10 @@ import Banner from "./Banner";
 
 const Header = () => {
   return (
-    <>
+    <div>
       <Navbar />
       <Banner />
-    </>
+    </div>
   );
 };
 
